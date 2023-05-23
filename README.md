@@ -10,7 +10,7 @@ The University Management System is a software application designed to streamlin
 - Faculty management: Manage faculty records with personal information and performance evaluations.
 - Course management: Add, update, and remove courses with course code, title, description, and prerequisites.
 - Enrollment and grading: Students can enroll in courses, and faculty members can assign grades.
-- Reporting and analysis: Generate reports such as student transcripts, course rosters, and statistical analysis of performance.
+- Reporting and analysis: Generate reports such as statistical analysis of performance.
 - File management: Efficient handling of data storage, retrieval, and modification using appropriate data structures.
 - Security and access control: Ensure data security and restrict unauthorized access through user authentication.
 
