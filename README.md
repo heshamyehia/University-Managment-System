@@ -41,6 +41,7 @@ I would like to extend my heartfelt thanks to the following team members for the
 - Aley Amr
 - Waad Ezz
 - Ahmed Abdelrahman
+- Farida Medhat
 - Sara Ahmed
 
 Their dedication, expertise, and collaborative efforts were instrumental in the successful completion of this project. I deeply appreciate their hard work and commitment to excellence.
