@@ -35,7 +35,7 @@ Contributions to the University Management System project are welcome. If you wo
 
 ## Acknowledgements
 
-I would like to extend our heartfelt thanks to the following team members for their valuable contributions to the development of the University Management System:
+I would like to extend my heartfelt thanks to the following team members for their valuable contributions to the development of the University Management System:
 
 - Heba Mohamed
 - Aley Amr
