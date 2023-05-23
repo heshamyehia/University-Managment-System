@@ -1,0 +1,12 @@
+﻿  Admin.cpp
+C:\Users\hmyeh\Desktop\University System\University System\University System\Admin.cpp(100,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hmyeh\Desktop\University System\University System\University System\Admin.cpp(514,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\hmyeh\Desktop\University System\University System\University System\Admin.cpp(586,8): warning C4101: 'GPA': unreferenced local variable
+C:\Users\hmyeh\Desktop\University System\University System\University System\Admin.cpp(614,6): warning C4101: 'StudentID': unreferenced local variable
+  Courses.cpp
+  Source.cpp
+  Student.cpp
+  Generating Code...
+C:\Users\hmyeh\Desktop\University System\University System\University System\Student.cpp(423): warning C4715: 'Student::LogIn': not all control paths return a value
+C:\Users\hmyeh\Desktop\University System\University System\University System\Admin.cpp(95): warning C4715: 'Admin::LogIn': not all control paths return a value
+  University System.vcxproj -> C:\Users\hmyeh\Desktop\University System\University System\x64\Debug\University System.exe
